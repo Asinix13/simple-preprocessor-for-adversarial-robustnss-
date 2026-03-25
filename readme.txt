@@ -4,7 +4,7 @@ conda activate ma_env
 
 All test concerning the Vanilla model with CIFAR10 are in the Standard folder and the one with Imagnet10 are in the Imagnet10 folder.
 The ones for the SotA WRN models in the SotA folder.
-All have their own readme and both need the conda env ma_env.
+All have their own readme and need the conda env ma_env.
 
 If code is used from open source githubs it will be mentioned directly in the code and in the respective readme files:
 For BPDA we use the code from: https://github.com/Annonymous-repos/attacks-in-pytorch/blob/master/attacks/BPDA.py
