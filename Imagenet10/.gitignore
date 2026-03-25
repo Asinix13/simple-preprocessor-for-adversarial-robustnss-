@@ -1,0 +1,10 @@
+imagenet10/
+Models/
+__pycache__/
+mult_adv/
+logs/
+Teste_Models/
+Extra_Models/
+test.slurm
+train.slurm
+*.log
